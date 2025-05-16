@@ -1,13 +1,19 @@
-# 💳 Creditcard Regresión
+# 💳 Análisis Predictivo – Regresión (Dataset Creditcard)
 
-## 🎯 Objetivo
+Este notebook presenta cinco modelos de regresión, con enfoque en segmentación.
+
+## 🎯 Objetivos
 
 - Documentar paso a paso en un notebook.
 - Aplicar el proceso SEMMA al dataset `creditcard`.
 - Realizar limpieza de datos, análisis exploratorio (EDA) y entrenamiento de 5 modelos de machine learning.
 - Evaluar desempeño usando F1-score, AUC y matriz de confusión.
 - Extraer conclusiones relevantes basadas en los resultados.
-
+<!--
+## 📌 Acciones Principales
+- A
+- B
+-->
 ## ✅ Conclusiones
 
 - El análisis evidenció que la regresión lineal sin regularización fue inicialmente adecuada, logrando un R² de 0.94 y un MSE de 4014.09.
@@ -15,3 +21,7 @@
 - Los modelos avanzados, especialmente Random Forest, demostraron un rendimiento superior, alcanzando un R² de 0.99 y un MSE de 457, capturando de manera efectiva las relaciones no lineales en los datos.
 - Gradient Boosting también mostró mejoras importantes (R² de 0.97), aunque ligeramente inferior a Random Forest.
 - Random Forest resultó ser el modelo más preciso para este conjunto de datos, superando ampliamente a los modelos de regresión lineal y regularizada.
+
+## 📩 Contacto
+
+Si tienes alguna pregunta o sugerencia, contáctame por [LinkedIn](https://linkedin.com/in/roberto-eustaquio/)

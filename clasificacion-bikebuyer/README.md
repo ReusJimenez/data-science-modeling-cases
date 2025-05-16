@@ -1,4 +1,4 @@
-# 🚴‍♂️ Análisis Predictivo – Probabilidad de Compra (Dataset Bikebuyers)
+# 🚴‍♂️ Análisis Predictivo – Probabilidad de Compra (Dataset Bikebuyer)
 
 Este notebook presenta cinco modelos de clasificación para predecir la intención de compra de clientes, con enfoque en segmentación.
 
